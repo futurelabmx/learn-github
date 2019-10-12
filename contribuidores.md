@@ -2,4 +2,4 @@
 
 - Ricardo Mirón - [GitHub](http://github.com/ricardomiron)
 
-- Abisai Sosa - [GitHub](https://github.com/chico-pay)
+- Abisai Sosa (Chico Pay) - [GitHub](https://github.com/chico-pay)
