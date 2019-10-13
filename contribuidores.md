@@ -1,6 +1,7 @@
 # Lista oficial de contribuidores
 
 - Ricardo Mirón - [GitHub](http://github.com/ricardomiron)
+- Francisco Mireles - [GitHub](https://github.com/frankmireles)
 - Valeria Tafoya - [GitHub](http://github.com/itsvaleriatafoya)
 - Claudia García - [GitHub](https://github.com/garciagclaudia)
 - Andres Esau - [GitHub](http://github.com/Andres8ezau) 
