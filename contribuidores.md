@@ -1,6 +1,7 @@
 # Lista oficial de contribuidores
 
 - Ricardo Mirón - [GitHub](http://github.com/ricardomiron)
+- Jessica Mares - [GitHub](https://github.com/jessicamares)
 - Jocelyn Cervantes - [GitHub](http://github.com/Jocecervantes) 
 - Regina Badillo - [GitHub](https://github.com/Regdw2)
 - Abisai Sosa (Chico Pay) - [GitHub](https://github.com/chico-pay)
