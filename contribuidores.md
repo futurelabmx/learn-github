@@ -1,6 +1,7 @@
 # Lista oficial de contribuidores
 
 - Ricardo Mirón - [GitHub](http://github.com/ricardomiron)
+- Miguel Bárcenas - [GitHub](https://github.com/mbarcenas-mne)
 - Jessica Mares - [GitHub](https://github.com/jessicamares)
 - Jocelyn Cervantes - [GitHub](http://github.com/Jocecervantes) 
 - Regina Badillo - [GitHub](https://github.com/Regdw2)
