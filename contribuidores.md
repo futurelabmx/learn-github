@@ -1,6 +1,7 @@
 # Lista oficial de contribuidores
 
 - Ricardo Mirón - [GitHub](http://github.com/ricardomiron)
+- Abisai Sosa (Chico Pay) - [GitHub](https://github.com/chico-pay)
 - Jennie Hernádez - [GitHub](https://github.com/jenniferjanet)
 - Francisco Mireles - [GitHub](https://github.com/frankmireles)
 - Valeria Tafoya - [GitHub](http://github.com/itsvaleriatafoya)
