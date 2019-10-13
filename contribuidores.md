@@ -1,6 +1,7 @@
 # Lista oficial de contribuidores
 
 - Ricardo Mirón - [GitHub](http://github.com/ricardomiron)
+- Lizeth Barragán - [GitHub](http://github.com/lizbarmal)
 - Josué Flores - [GitHub](http://github.com/josuefloresrdz) 
 - Miguel Bárcenas - [GitHub](https://github.com/mbarcenas-mne)
 - Jessica Mares - [GitHub](https://github.com/jessicamares)
