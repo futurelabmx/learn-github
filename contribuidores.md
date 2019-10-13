@@ -1,6 +1,7 @@
 # Lista oficial de contribuidores
 
 - Ricardo Mirón - [GitHub](http://github.com/ricardomiron)
+- Claudia García - [GitHub](https://github.com/garciagclaudia)
 - Andres Esau - [GitHub](http://github.com/Andres8ezau) 
 - Zaid De Anda - [GitHub](https://github.com/ZaidTheJedi)
 - Lilián Ferreira - [GitHub](https://github.com/lilianferreira)
