@@ -1,6 +1,7 @@
 # Lista oficial de contribuidores
 
 - Ricardo Mirón - [GitHub](http://github.com/ricardomiron)
+- Rodolfo Ferro - [GitHub](https://github.com/RodolfoFerro)
 - Paola Beltrán - [GitHub](http://github.com/paolabs)
 - Lizeth Barragán - [GitHub](http://github.com/lizbarmal)
 - Josué Flores - [GitHub](http://github.com/josuefloresrdz) 
