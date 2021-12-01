@@ -18,5 +18,8 @@
 - Zaid De Anda - [GitHub](https://github.com/ZaidTheJedi)
 - Lilián Ferreira - [GitHub](https://github.com/lilianferreira)
 - issac romero  - [GitHub](https://github.com/IssacRom-96/hello-world)
+- Axel Cuaxilo -[GitHub](https://github.com/angelcuaxilo)
 - José Antonio - [GitHub](https://github.com/HernandezJosze)
 - Omar Trujillo - [GitHub](https://github.com/MazinoXX)
+- José Escamilla - [GitHub](https://github.com/Jose-Escamilla)
+- Marcos Genis - [Github](https://github.com/MAGH1)
