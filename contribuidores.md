@@ -20,6 +20,7 @@
 - issac romero  - [GitHub](https://github.com/IssacRom-96/hello-world)
 - Axel Cuaxilo -[GitHub](https://github.com/angelcuaxilo)
 - José Antonio - [GitHub](https://github.com/HernandezJosze)
+- Mario Alberto - [GitHub](https://github.com/MarioAMejia)
 - Omar Trujillo - [GitHub](https://github.com/MazinoXX)
 - José Escamilla - [GitHub](https://github.com/Jose-Escamilla)
 - Marcos Genis - [Github](https://github.com/MAGH1)
