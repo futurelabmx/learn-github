@@ -18,6 +18,7 @@
 - Zaid De Anda - [GitHub](https://github.com/ZaidTheJedi)
 - Lilián Ferreira - [GitHub](https://github.com/lilianferreira)
 - issac romero  - [GitHub](https://github.com/IssacRom-96/hello-world)
+- David Romo Reyes - [GitHub](https://github.com/DavRo24)
 - Mario Martínez  - [GitHub](https://github.com/TheK321)
 - Adriana Cruz - [Github](https://github.com/vce00442)
 - Axel Cuaxilo -[GitHub](https://github.com/angelcuaxilo)
