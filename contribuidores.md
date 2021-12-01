@@ -18,3 +18,4 @@
 - Zaid De Anda - [GitHub](https://github.com/ZaidTheJedi)
 - Lilián Ferreira - [GitHub](https://github.com/lilianferreira)
 - issac romero  - [GitHub](https://github.com/IssacRom-96/hello-world)
+- José Antonio - [GitHub](https://github.com/HernandezJosze)
