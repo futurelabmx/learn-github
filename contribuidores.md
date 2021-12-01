@@ -1,7 +1,6 @@
 # Lista oficial de contribuidores
 
 - Ricardo Mirón - [GitHub](http://github.com/ricardomiron)
-- Bubu - [GitHub](https://github.com/BubuDavid)
 - Rodolfo Ferro - [GitHub](https://github.com/RodolfoFerro)
 - Paola Beltrán - [GitHub](http://github.com/paolabs)
 - Lizeth Barragán - [GitHub](http://github.com/lizbarmal)
@@ -21,3 +20,4 @@
 - issac romero  - [GitHub](https://github.com/IssacRom-96/hello-world)
 - José Antonio - [GitHub](https://github.com/HernandezJosze)
 - José Escamilla - [GitHub](https://github.com/Jose-Escamilla)
+- Marcos Genis - [Github](https://github.com/MAGH1)
