@@ -19,5 +19,5 @@
 - Lilián Ferreira - [GitHub](https://github.com/lilianferreira)
 - issac romero  - [GitHub](https://github.com/IssacRom-96/hello-world)
 - José Antonio - [GitHub](https://github.com/HernandezJosze)
+- José Escamilla - [GitHub](https://github.com/Jose-Escamilla)
 - Marcos Genis - [Github](https://github.com/MAGH1)
-- 
